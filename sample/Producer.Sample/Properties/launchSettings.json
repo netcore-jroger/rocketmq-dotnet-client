@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Producer.Sample": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,2 +1,1 @@
-# rocketmq-client
-RocketMQ .NET Client.
+# rocketmq-dotnet-client
